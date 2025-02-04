@@ -1,6 +1,7 @@
 body {
     background-color: #FFFFFF;
-    font-family: "Roboto", serif;
+    font-family: "Roboto", "Raleway", serif;
+    color: #2E2F42;
 }
 
 a {
@@ -29,15 +30,19 @@ h3 {
     letter-spacing: 2%;
 }
 
-p {
+/* p {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 2%;
 
-}
+} */
 
 ul {
     list-style-type: none;
+}
+
+button {
+    cursor: pointer;
 }
 
 /* HEADER */
