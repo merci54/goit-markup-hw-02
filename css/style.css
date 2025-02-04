@@ -1,0 +1,126 @@
+body {
+    background-color: #FFFFFF;
+    font-family: "Roboto", serif;
+}
+
+a {
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+h1 {
+
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+}
+
+h2 {
+
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
+p {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* HEADER */
+
+.logo {
+    text-transform: uppercase;
+    font-family: "Raleway", serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.logo-text {
+    color: #4D5AE5;
+}
+
+.nav-item-link {
+    font-weight: 500;
+}
+
+.address {
+    text-align: right;
+}
+
+.address-item-link {
+    font-style: normal;
+}
+
+/* SECTION HERO */
+
+.hero {
+    background-color: #2E2F42;
+    height: 600px;
+    color: white;
+    text-align: center;
+}
+
+.hero-button {
+    background-color: #4D5AE5;
+    border: none;
+    outline: none;
+    color: inherit;
+}
+
+.about {
+    color: #434455;
+}
+
+.about-title {
+    color: #2E2F42;
+}
+
+
+
+/* SECTION TEAM */
+
+
+.team {
+    background-color: #F4F4FD;
+    height: 732px;
+}
+
+.team-title {
+    text-align: center;
+}
+
+.team-list {
+    display: flex;
+    text-align: center;
+}
+
+/* SECTION PORTFOLIO */
+
+.portfolio-title {
+    text-align: center;
+}
+
+/* FOOTER */
+
+.footer {
+    background-color: #2E2F42;
+    color: #ffffff;
+}
+
+.footer-logo {
+    color: inherit;
+}
