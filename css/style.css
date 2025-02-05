@@ -126,7 +126,7 @@ button {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    columns: #2e2f42;
+    color: #2e2f42;
 }
 
 .portfolio-item-title {
@@ -134,14 +134,14 @@ button {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    columns: #2e2f42;
+    color: #2e2f42;
 }
 
 .portfolio-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    columns: #434455;
+    color: #434455;
 }
 
 
@@ -156,6 +156,6 @@ button {
 
 .footer-text {
     line-height: 1.5;
-    columns: #F4F4FD;
+    color: #F4F4FD;
     letter-spacing: 0.02em;
 }
